@@ -184,7 +184,7 @@ export function report(verdict, result) {
 
   console.log(lines.join("\n"));
   if (verdict.verdict === "banned") {
-    console.log("\n建议：网页端登出所有设备 → 启用高级账号保护 → 静置约 24h 后再测。");
+    console.log("\n建议：网页端启用高级账号保护 → 登出所有设备 → 静置约 24h 后再测。");
   }
 }
 
