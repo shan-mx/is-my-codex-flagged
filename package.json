@@ -1,0 +1,12 @@
+{
+  "name": "is-my-codex-flagged",
+  "version": "0.1.0",
+  "bin": {
+    "is-my-codex-flagged": "./is-my-codex-flagged.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "repository": "github:shan-mx/is-my-codex-flagged"
+}
